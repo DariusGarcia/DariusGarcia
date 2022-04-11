@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-I am a 4th-year Business Economics Student at UC Irvine. I am a self-starter that is aspiring to leverage my Business Economic analytical skills to break into a career in tech! More specifically, I would like to be a mobile app developer because I started to enjoy making mobile android apps after I took a course on mobile app development here at UC Irvine through a nonprofit organization called CodePath Org. I have a passion for learning new things to apply to my everyday life because I am a film believer that knowledge is power. I am a problem solver, passionate about uncovering the "why" in how things work, and want to make the world a better place for all!
+I am a 4th-year Business Economics Student at UC Irvine. I am a self-starter that is aspiring to leverage my Business Economic analytical skills to break into a career in tech! More specifically, I would like to be a mobile app developer because I started to enjoy making mobile android apps after I took a course on mobile app development here at UC Irvine through a nonprofit organization called CodePath Org. I have a passion for learning new things to apply to my everyday life because I am a film believer that **knowledge is power**. I am a problem solver, passionate about uncovering the "why" in how things work, and want to make the world a better place for all!    
+  
+  
+*Connect or contact me @ [LinkedIn](https://www.linkedin.com/in/darius-garcia-4143511b7), [Email](mailto:dariusgarcia888@gmail.com)*
