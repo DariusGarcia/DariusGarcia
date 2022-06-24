@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-I'm a recent UC Irvine graduate with a degree in Business Economics. I'm a self-starter that is driven to uncover the "why" in how things work.
+I'm a recent UC Irvine graduate with a B.A. degree in Business Economics. I'm not afraid of failure as that's where *true* growth flourishes. I'm highly motivated and a fast learner.
 
-More specifically, I'm interested in becoming a front-end web developer. I found a passion for programming after falling in love with having to think outside the box for solving various real world problems and being able to let my creativity run freely. Since then, I have found a love for creating elegant apps to which I decided to push myself to learn other programming languages and technologies. I'm always trying to further advance my capabilities to see where my creativity leads me.
+I found a passion for programming due to having to think outside the box for solving various real world problems and being able to let my creativity run freely. I'm always trying to learn new technologies to further advance my capabilities to see where my imagination leads me.
 
-I strive to keep learning new things to not only apply to my everyday life, but to constantly challenge what's possible. I try to refrain from accepting only one approach of doing something, but rather try to seek comfort in embracing the unknown to be able to shed light on new solutions. I'm a problem solver that wants to utilize my skills to help other people and to be able to make the world a better place for all!
+I strive to keep learning new things to not only apply to my everyday life, but to <ins>constantly challenge what's possible.</ins> I try to refrain from accepting one approach of doing something, but rather try to seek comfort in embracing the *unknown* to be able to shed light on new solutions. I'm a problem solver that wants to utilize my skills to help other people and to make the world a better place for all.
   
 *Connect or contact me @ [LinkedIn](https://www.linkedin.com/in/darius-garcia-4143511b7), [Email](mailto:dariusgarcia888@gmail.com)*
