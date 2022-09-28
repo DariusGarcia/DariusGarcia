@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-I'm a recent UC Irvine graduate with a B.A. in Business Economics. I'm highly motivated and a fast learner.
 
-I strive to keep learning new things to not only apply to my everyday life, but to <ins>constantly challenge what's possible.</ins> I'm a problem solver that wants to utilize my skills to help other people and to make the world a better place for all.
   
 *Connect or contact me @ [Email](mailto:dariusgarcia888@gmail.com)*
