@@ -17,4 +17,4 @@ Here are some ideas to get you started:
  
 
   
-*Connect or contact me @ [Email](mailto:dariusgarcia888@gmail.com)*
+*Connect or contact me @ [Email](mailto:dariusgarcia@hotmail.com)*
