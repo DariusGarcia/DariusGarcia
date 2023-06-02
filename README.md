@@ -1,5 +1,6 @@
 #### Hey, I'm Darius
 
+I am currently a coding instructor for Code Ninjas. I have a Bachelor of Arts in Business Economics from the University of California, Irvine. I'm a highly motivated individual and a fast learner who is looking to make an impact.
 <!--
 **DariusGarcia/DariusGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
